@@ -3,7 +3,7 @@
 
 
 # maven引入方法
-##1、在项目pom.xml添加
+## 1、在项目pom.xml添加
 <repositories>
 	<repository>
 		<id>yangwk-repo</id>
@@ -11,7 +11,7 @@
 	</repository>
 </repositories>
 
-##2、引入相关jar
+## 2、引入相关jar
 例如：
 <dependency>
 	<groupId>com.github.yangwk</groupId>
